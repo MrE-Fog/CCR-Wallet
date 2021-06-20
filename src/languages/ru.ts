@@ -55,8 +55,8 @@
         <translation>Баланс счета</translation>
     </message>
     <message>
-        <source> rto</source>
-        <translation> rto.</translation>
+        <source> </source>
+        <translation> ccr.</translation>
     </message>
     <message>
         <source>Frame</source>
@@ -203,11 +203,11 @@
     <name>ConfirmSendDialog</name>
     <message>
         <source>Confirm sending %1 CCR</source>
-        <translation>Подтвердите отправку %1 rto.</translation>
+        <translation>Подтвердите отправку %1 ccr.</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Are you sure you want to send &lt;strong&gt;%1 CCR&lt;/strong&gt;?&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Желаете выслать &lt;strong&gt;%1 rto.&lt;/strong&gt;?&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Желаете выслать &lt;strong&gt;%1 ccr.&lt;/strong&gt;?&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Yes</source>
@@ -270,7 +270,7 @@
     </message>
     <message>
         <source>Wallet will connect to remote node running in local or global network. Please select node or specify IP address or domain name and port. In this mode wallet sends 0.25% fee from each transaction to the node, but no more than 10 CCR.</source>
-        <translation>Кошелек будет подключаться к удаленному узлу в локальной или глобальной сети. Выберите узел или укажите IP адрес или домен и порт чтобы добавить новый. В этом режиме кошелек платит комиссию узлу в размере 0,25% от суммы транзакции, но не более 10 rto.</translation>
+        <translation>Кошелек будет подключаться к удаленному узлу в локальной или глобальной сети. Выберите узел или укажите IP адрес или домен и порт чтобы добавить новый. В этом режиме кошелек платит комиссию узлу в размере 0,25% от суммы транзакции, но не более 10 ccr.</translation>
     </message>
     <message>
         <source>Remove node</source>
@@ -1391,7 +1391,7 @@ Do you want to go to download page?</source>
     <name>WalletGui::ConfirmSendDialog</name>
     <message>
         <source>Confirm sending %1 CCR</source>
-        <translation>Подтвердите отправку %1 rto.</translation>
+        <translation>Подтвердите отправку %1 ccr.</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Payment ID: %1&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>

@@ -55,8 +55,8 @@
         <translation>Баланс рахунку</translation>
     </message>
     <message>
-        <source> rto</source>
-        <translation> rto.</translation>
+        <source> ccr</source>
+        <translation> ccr.</translation>
     </message>
     <message>
         <source>Frame</source>

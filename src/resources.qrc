@@ -44,7 +44,7 @@
     <qresource prefix="/images">
         <file alias="splash">images/splash.png</file>
         <file alias="cryptonote">images/concord.png</file>
-        <file alias="coin">images/rtocoin.png</file>
+        <file alias="coin">images/ccrcoin.png</file>
         <file alias="clock">images/clock.gif</file>
         <file alias="bg.png">images/bg.png</file>
         <file alias="handle.png">images/handle.png</file>
