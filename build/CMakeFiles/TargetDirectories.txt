@@ -1,0 +1,15 @@
+/home/cheez/ccrw/build/CMakeFiles/install/local.dir
+/home/cheez/ccrw/build/CMakeFiles/list_install_components.dir
+/home/cheez/ccrw/build/CMakeFiles/edit_cache.dir
+/home/cheez/ccrw/build/CMakeFiles/install.dir
+/home/cheez/ccrw/build/CMakeFiles/qrencode.dir
+/home/cheez/ccrw/build/CMakeFiles/rebuild_cache.dir
+/home/cheez/ccrw/build/CMakeFiles/cryptonote.dir
+/home/cheez/ccrw/build/CMakeFiles/concordwallet.dir
+/home/cheez/ccrw/build/CMakeFiles/install/strip.dir
+/home/cheez/ccrw/build/CMakeFiles/Mnemonics.dir
+/home/cheez/ccrw/build/CMakeFiles/package.dir
+/home/cheez/ccrw/build/CMakeFiles/package_source.dir
+/home/cheez/ccrw/build/CMakeFiles/cryptonote_autogen.dir
+/home/cheez/ccrw/build/CMakeFiles/concordwallet_autogen.dir
+/home/cheez/ccrw/build/CMakeFiles/Mnemonics_autogen.dir
