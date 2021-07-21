@@ -1,3 +1,4 @@
+set(CMAKE_PREFIX_PATH "C:\Qt\5.12.2\msvc2017_64\lib\cmake\")
 cmake_minimum_required(VERSION 2.8)
 
 include(CryptoNoteWallet.cmake)
