@@ -45,7 +45,7 @@ const size_t   CRYPTONOTE_BLOCK_GRANTED_FULL_REWARD_ZONE_V1  = 100 * 1024;
 const size_t   CRYPTONOTE_BLOCK_GRANTED_FULL_REWARD_ZONE_CURRENT = CRYPTONOTE_BLOCK_GRANTED_FULL_REWARD_ZONE;
 const size_t   CRYPTONOTE_COINBASE_BLOB_RESERVED_SIZE        = 600;
 const size_t   CRYPTONOTE_DISPLAY_DECIMAL_POINT              = 8;
-const uint64_t MINIMUM_FEE                                   = UINT64_C(100000);
+const uint64_t MINIMUM_FEE                                   = UINT64_C(10000);
 const uint64_t DEFAULT_DUST_THRESHOLD                        = UINT64_C(100000);
 
 const uint64_t DIFFICULTY_TARGET                             = 180; // seconds
